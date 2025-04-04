@@ -1,0 +1,17 @@
+.vscode
+.venv
+
+backend/.env
+google-api.json
+backend/encoded_image.png
+backend/__pycache__/*
+backend/__pycache__/
+backend/utils/__pycache__/*
+frontend/.env
+frontend/node_modules
+gcloud auth application-default login
+exec -l 
+exec -l /bin
+exec -l /bin/zsh
+exec -l /bin/zsh/google-cloud-sdk
+ai-avatar/ai-avatar-backend/vertexapi
